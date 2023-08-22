@@ -2,7 +2,7 @@
 #### Front end Developer
 Front-end developer building user-friendly web apps with HTML, CSS, and JavaScript. Let's collaborate and create awesome websites together!
 
-Skills:  JS / HTML / CSS / JQUERY / BOOTSTRAP
+Skills:  JS / HTML / CSS / JQUERY / BOOTSTRAP / WordPress 
 
 - 🔭 I’m currently working on bigobyte.com 
 - 🌱 I’m currently learning PHP and WP 
